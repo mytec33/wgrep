@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "wgrep": {
+      "commandName": "Project",
+      "commandLineArgs": "ukraine c:\\users\\mytec\\Downloads\\wiki\\*.xml"
+    }
+  }
+}
