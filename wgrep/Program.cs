@@ -96,7 +96,7 @@ namespace wgrep // Note: actual namespace depends on the project name.
 
         private static void DisplayHelp()
         {
-            Console.WriteLine("usage: wgrep [-a num] [-b num] filepath searchphrase");
+            Console.WriteLine("usage: wgrep [-A num] [-B num] searchPattern filepath");
         }
 
         private static void DisplayLine(string line)
